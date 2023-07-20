@@ -1,0 +1,1 @@
+php /var/www/html/fuel/reminder.php > log

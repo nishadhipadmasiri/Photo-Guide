@@ -1,0 +1,1 @@
+php /var/www/html/fuel/update_quota.php > log
